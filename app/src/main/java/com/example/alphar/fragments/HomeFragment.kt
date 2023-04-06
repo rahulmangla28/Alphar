@@ -7,17 +7,21 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.Observer
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.alphar.databinding.FragmentHomeBinding
 import com.example.alphar.pojo.Meal
 import com.bumptech.glide.Glide
+import com.example.alphar.R
 import com.example.alphar.activities.CategoryMealsActivity
 import com.example.alphar.activities.MainActivity
 import com.example.alphar.activities.MealActivity
 import com.example.alphar.adapters.CategoriesAdapter
 import com.example.alphar.adapters.MostPopularAdapter
+import com.example.alphar.fragments.bottomsheet.MealBottomSheetFragment
 import com.example.alphar.viewModel.HomeViewModel
+import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 
 class HomeFragment : Fragment() {
 
@@ -69,6 +73,23 @@ class HomeFragment : Fragment() {
         observeCategoriesLiveData()
 
         onCategoryClick()
+
+        onPopularItemLongClick()
+
+        onSearchIconClick()
+    }
+
+    private fun onSearchIconClick() {
+        binding.imgSearch.setOnClickListener {
+            findNavController().navigate(R.id.action_homeFragment_to_searchFragment)
+        }
+    }
+
+    private fun onPopularItemLongClick() {
+        popularItemsAdapter.onLongItemClick = {meal->
+            val mealBottomSheetFragment = MealBottomSheetFragment.newInstance(meal.idMeal)
+            mealBottomSheetFragment.show(childFragmentManager,"Meal Info")
+        }
     }
 
     private fun onCategoryClick() {
