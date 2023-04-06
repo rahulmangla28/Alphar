@@ -1,7 +1,7 @@
-# :plate_with_cutlery: Alphar
+# <img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/logo_Alphar.jpg" height="50" width="50"> Alphar
 
 Alphar is an 📱 android application which provides the full information about the selected 🥞	meal including the instructions how to prepare that meal 
-followed by a video tutorial.   
+followed by a  <img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/youtube%20icon.png" height="16" width="16" >  video tutorial.   
 It provides the leisure to categorize the meals and makes your favourite meal available at one click.
 
 ## 📜 Contents
@@ -30,13 +30,13 @@ It provides the leisure to categorize the meals and makes your favourite meal av
 
 ## 📸 Screenshots
 
-Splash Screen | Login Page | Add New Member | 
+Home | Hover Meal | Meal Information | 
 --- | --- | --- |
-<img src="https://github.com/rahulmangla28/Gym_Management_App/blob/master/SplashScreen.jpeg" height="350" width="200" > | <img src="https://github.com/rahulmangla28/Gym_Management_App/blob/master/Login%20Page.jpeg" height="350" width="200" > | <img src="https://github.com/rahulmangla28/Gym_Management_App/blob/master/Add%20New%20Member.jpeg" height="350" width="200" >
+<img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/Home.jpg" height="350" width="200" > | <img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/HoverMeal.jpg" height="350" width="200" > | <img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/Meal%20Information.jpg" height="350" width="200" >
 
-Update Membership Fee | Change Password 
---- | --- |
-<img src="https://github.com/rahulmangla28/Gym_Management_App/blob/master/Update%20Membership%20Fee.jpeg" height="350" width="200" > | <img src="https://github.com/rahulmangla28/Gym_Management_App/blob/master/Change%20Password.jpeg" height="350" width="200" > 
+Favorite Section | Category Section | Search Meal 
+--- | --- | --- |
+<img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/Favorite%20Section.jpg" height="350" width="200" > | <img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/Category%20Section.jpg" height="350" width="200" > |<img src="https://github.com/rahulmangla28/Alphar/blob/master/Screenshots/Search%20Screen.jpg" height="350" width="200" >
 
 ## 🔤 Languages Used
 
