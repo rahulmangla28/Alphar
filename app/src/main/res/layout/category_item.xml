@@ -5,10 +5,10 @@
     android:layout_height="wrap_content">
 
     <ImageView
-        android:id="@+id/img_categoryy"
-        android:layout_width="@dimen/_80sdp"
-        android:layout_height="@dimen/_80sdp"
-        android:scaleType="centerCrop"
+        android:id="@+id/img_category"
+        android:layout_width="@dimen/_65sdp"
+        android:layout_height="@dimen/_65sdp"
+        android:scaleType="fitCenter"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/img_categoryy"
+        app:layout_constraintTop_toBottomOf="@id/img_category"
         android:text="Category Name"
         android:textSize="@dimen/_15ssp"
         android:textStyle="bold"
