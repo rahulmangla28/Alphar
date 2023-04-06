@@ -6,14 +6,14 @@ It provides the leisure to categorize the meals and makes your favourite meal av
 
 ## 📜 Contents
 
-* [Android Concepts Used]()
-* [Screenshots]()
-* [Languages Used]()
-* [Networking Libraries Used]()
-* [App Permissions]()
-* [UI]()
-* [Coding Style]()
-* [Future Enhancements]()
+* [Android Concepts Used](https://github.com/rahulmangla28/Alphar#-android-concepts-used)
+* [Screenshots](https://github.com/rahulmangla28/Alphar#-screenshots)
+* [Languages Used](https://github.com/rahulmangla28/Alphar#-languages-used)
+* [Networking Libraries Used](https://github.com/rahulmangla28/Alphar#-networking-libraries-used)
+* [App Permissions](https://github.com/rahulmangla28/Alphar#-app-permissions)
+* [UI](https://github.com/rahulmangla28/Alphar#-ui)
+* [Coding Style](https://github.com/rahulmangla28/Alphar#-coding-style)
+* [Future Enhancements](https://github.com/rahulmangla28/Alphar#-future-enhancements)
 
 ## 📑 Android Concepts Used
 
