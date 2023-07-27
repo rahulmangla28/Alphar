@@ -26,7 +26,7 @@ It provides the leisure to categorize the meals and makes your favourite meal av
 7. [Live Data](https://developer.android.com/topic/libraries/architecture/livedata) : LiveData is a lifecycle-aware component and thus it performs its functions according to the lifecycle state of other application components. 
 8. [Jetpack Navigation Components](https://developer.android.com/guide/navigation) : Simplifies navigation implementation and helps in visualizing app’s navigation                                                                                          flow.
 9. [Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=EAIaIQobChMI5KH0g7PG-QIV6pJmAh0fwgsGEAAYASAAEgIHD_D_BwE&gclsrc=aw.ds) :        Helps in efficient display of large sets of data.
-10.[Navigation Components](https://developer.android.com/guide/navigation/navigation-getting-started) : Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app.
+10. [Navigation Components](https://developer.android.com/guide/navigation/navigation-getting-started) : Navigation refers to the interactions that allow users to navigate across, into, and back out from the different pieces of content within your app.
 
 ## 📸 Screenshots
 
